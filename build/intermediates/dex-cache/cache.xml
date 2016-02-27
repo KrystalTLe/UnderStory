@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.4.0_931f493d439d1e12ef681849176257ec0af3ad39.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_bea3c5489f9f4257db7673deba90f5a12a27990e.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_9b11d53e017a6e0d418c87d8ac74799f5d9c1366.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.4.0_21b9bc5be5d2772772098f19a53a923841cb8bf0.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-23.0.0_6843050194f82f92ee2378d17c2fb259bb1f4193.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.4.0_3117764de4abb7e423d288f0f0f45890cf9eefac.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/picasso-2.4.0_3c054e3041211e27a0b100f6b65e1ee7ddfa3fe9.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.4.0_aff1e65b036d5368090e0b73c9632ef47d8fcfba.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_adc0f04ca109bef12ae74294a1df0374b1c1c007.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.4.0_bb40813b926d67f2e606da56522af5cf60c5ac69.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.4.0_7d827d82f21a7b592583bb941f1dc8f92f004c77.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.4.0_1db27bb71b53f7811faf1976a1bbd64da393a009.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.4.0_ac8bb00e038c88578310e41a62de391b6309a983.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.4.0_fa62f25938a94af025ee43091136ce09b5c667c7.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-8.4.0_c2b73f251fa190b689589f15338e934b2c4d14e6.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.4.0_8f509cadb460ba328c916b0df8ff2eae787a0548.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.4.0_664e2d46021e840f2bd674da7cc3585048ad6969.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.4.0_5c3f2a47e2b2da9c866667035c71994e54843d43.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.4.0_73674d78bf6cb97a85f0df5df5088330cc956422.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.4.0_ccb0c726eaa3027628351eb58084fcc86b428945.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.4.0_69bb7b4dcc99808bf59e79d5a8dc95d42158139d.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.4.0_ce002336d5ec9cf7e14da5559f7d5145e8e0fe35.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.4.0_f25f926ad3e212ce512f7ccfad0a49ce9141a461.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_987057aa7d85e5b6989accba51aaba323678c624.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_24ebb6b9f91a5ae101009068c42abdd1b5c9290f.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0_b40324fd291b59bb3ee6d82dd3c128032e2156a0.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.4.0_7082643bab73f26c2ffde64ae3b4776a571454cf.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_595277667aa8a5f9f6dd48b5e53c9cbff3640308.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.4.0_1f1237f974d8366d6ac45224106495b9728fa358.jar" />
+    </item>
+    <item
+        jar="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/KrystalTLe/Documents/AndroidStudioProjects/TreeApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.4.0_e1cf2e94c7f137f3b3f60cdfe0fa973a6dc8b677.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UnderStory</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="treename">Tree Name:</string>
+    <string name="sciname">Scientific_Name</string>
+    <string name="siName">Scientific Name:</string>
+    <string name="aboutme">Description:</string>
+    <string name="title_activity_show_image">ShowImage</string>
+    <string name="title_activity_show_me_tree">Map</string>
+    <string name="showMe">See Me On Map!</string>
+    <string name="title_activity_show_the_jungle">Map</string>
+    <string name="title_activity_jungle">Map</string>
+    <string name="title_activity_navigation">Navigation</string>
+</resources>

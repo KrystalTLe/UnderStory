@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcomescreen"
+    tools:context=".WelcomePage">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UnderStory"
+        android:textColor="#FFFFFF"
+        android:id="@+id/welcomeName"
+        android:textSize="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Nature has much wisdom to share.\n We need only take a moment to listen. \n These are but a few of the stories.\n Told by trees on the campus of Lewis University."
+        android:textColor="#FFFFFF"
+        android:textSize="13dp"
+        android:id="@+id/intro"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/welcomeName"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LIST VIEW"
+        android:id="@+id/startButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="12dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAP VIEW"
+        android:id="@+id/showTreesOnCam"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="12dp"/> />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="In the spirit of knowledge, wisdom, fidelity, justice, and association, Lewis University is committed to making a significant reduction in our ecological footprint on campus as well as the world. "
+        android:id="@+id/disclaimer"
+        android:textColor="#FFFFFF"
+        android:gravity="center_horizontal"
+        android:textSize="13dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+</RelativeLayout>
